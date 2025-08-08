@@ -44,7 +44,7 @@ Key steps:
 
 ## Dashboard Snapshot
 
-![Telecom Churn Dashboard]()
+![Telecom Churn Dashboard](https://github.com/vidhi0528/telecom-customer-churn-analysis/blob/main/Dashboard_Snapshot(Churn%20Analysis).png)
 
 ## Author
 
